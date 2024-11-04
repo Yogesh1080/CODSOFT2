@@ -1,3 +1,3 @@
-# CODSOFT3
+# CODSOFT
 Calculator
 Task 3
